@@ -1,5 +1,8 @@
 # Logging Examples
 
+[![Quality](https://curity.io/assets/images/badges/logging-examples-quality.svg)](https://curity.io/resources/code-examples/status/)
+[![Availability](https://curity.io/assets/images/badges/logging-examples-availability.svg)](https://curity.io/resources/code-examples/status/)
+
 This repo includes examples of how you can configure and control logging in the Curity Identity Server.
 
 ## Per-client Debug Logging
